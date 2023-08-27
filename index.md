@@ -11,19 +11,26 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Very
+## COOL
+### Experimentation
 
 - Bulleted
 - List
 
+- I added stuff
+- to the bulleted list
+
 1. Numbered
 2. List
+3. and the 
+4. numbered list
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+**SO BOLD**   `so code`  _so italic_
+
+[Link](https://en.wikipedia.org/wiki/CBS_Building) and ![Image](https://images.unsplash.com/photo-1608848461950-0fe51dfc41cb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8fA%3D%3D&w=1000&q=80)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
